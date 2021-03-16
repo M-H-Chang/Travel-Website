@@ -24,4 +24,6 @@ p {
 ul {
   font-size: 30px;
   line-height: 20px;
+  display: table;
+  margin: 0 auto;
 }
